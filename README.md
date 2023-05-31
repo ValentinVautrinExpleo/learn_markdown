@@ -14,3 +14,8 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
 ~~Oups c'est une erreur~~  
 <sub>Mon texte est plus petit</sub>  
 <sup>Superscript</sup>  
+  
+ # Citations
+ > Nous avons ici une citation
+ Nous avons imbriqué `une citation` ici
+ 

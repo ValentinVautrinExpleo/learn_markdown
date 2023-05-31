@@ -51,16 +51,19 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
  # Listes  
  
  ## Liste simple  
- *Element A
- *Element B
- *Element C
+ * Element A
+ * Element B
+ * Element C
  
  ## Liste ordonnées
  1. Carotte
  2. Choux
  3. Lentilles
  
- 
+ ## liste imbriquée
+ * Element 1 
+	* Element 1.A
+		* Element 1.A.1
  
  
  

@@ -39,3 +39,20 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
  
  ![Logo](https://expleo.com/global/fr/wp-content/uploads/2019/02/expleo-logo-and-tagline.png)
  
+ 
+ # Ajouter un emoji
+ 
+ Pour trouver la liste des emojis dispo avec GitHub : [liste des emijis](https://github.com/yodamad/gitlab-emoji)
+ 
+ 
+ C'est une ambulance :ambulance:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

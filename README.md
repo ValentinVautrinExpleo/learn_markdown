@@ -37,5 +37,5 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
    
  # Ajouter une image  
  
- ![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fexpleo.com%2Fglobal%2Ffr%2Fle-groupe%2F&psig=AOvVaw3O124qVo4CCk5l2jaT1iQ3&ust=1685611187208000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMjUp5Kdn_8CFQAAAAAdAAAAABAD)
+ ![Logo](https://expleo.com/global/fr/wp-content/uploads/2019/02/expleo-logo-and-tagline.png)
  

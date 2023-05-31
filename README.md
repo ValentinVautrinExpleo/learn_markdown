@@ -48,6 +48,19 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
  C'est une ambulance :ambulance:  
  
  
+ # Listes  
+ 
+ ## Liste simple  
+ *Element A
+ *Element B
+ *Element C
+ 
+ ## Liste ordonnées
+ 1. Carotte
+ 2. Choux
+ 3. Lentilles
+ 
+ 
  
  
  
